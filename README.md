@@ -1,5 +1,12 @@
 ﻿# Landing Page — Nicho Hotelaria
 
+[![Demo](https://img.shields.io/badge/demo-online-success?logo=netlify)](https://nichohotelaria.netlify.app/)
+
+| Tema | Stack | Demo |
+|---|---|---|
+| Hotelaria | HTML, Tailwind CSS, JS | https://nichohotelaria.netlify.app/ |
+
+
 ![Preview](docs/preview.png)
 
 
